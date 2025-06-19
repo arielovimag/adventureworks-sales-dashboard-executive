@@ -1,66 +1,86 @@
-AdventureWorks Sales Dashboard | Executive Portfolio Edition
+# Adventure Works Sales Dashboard | Executive Power BI Project
 
-🔍 Project Summary
+---
 
-This repository contains a clean, standalone version of the Sales Executive Dashboard developed as part of my Data Analytics and Business Intelligence portfolio. The dashboard provides an executive overview of sales performance across regions, product categories, sales channels, and key metrics.
+## 📊 Project Title
+**Sales Analysis Executive Dashboard | Adventure Works Dataset**
 
-📊 Purpose
+---
 
-Present a simple, professional Power BI report ready for recruiter or hiring manager review.
+## 🧠 Project Context
 
-Focus on key executive-level KPIs and high-level visual storytelling.
+This project is part of my personal portfolio to showcase my Business Intelligence skills using Power BI, SQL and core data analytics concepts. The dataset used is based on Microsoft's AdventureWorks Sales Data, simulating a global retail and wholesale operation selling sporting goods.
 
-Showcase Power BI skills in dashboard design, DAX measures, and business insights extraction.
+---
 
-🏛️ Dataset Source
+## 🎯 Business Objective
 
-AdventureWorksDW2017 (Microsoft sample dataset)
+Apply Business Intelligence techniques to explore sales behavior across multiple channels, regions, and product lines, and extract actionable insights for strategic decision making, demand planning, and sales performance monitoring.
 
-SQL Server Express (on-premises)
+---
 
-Cleaned and transformed via Power Query
+## 🔍 Methodology (Google Data Analytics Framework)
 
-💼 Key Business KPIs Displayed
+### 1️⃣ Discovery – Observations from Data
+- Defined core sales management questions: revenue opportunities, margin growth, product performance.
+- Loaded data from SQL Server on-premises (AdventureWorksDW).
+- Data cleansing & transformation using Power Query in Power BI.
 
-Total Revenue ($110.34M)
+### 2️⃣ Insights – Converting Data to Insights
+- Identified best performing products, territories, and channels.
+- Analyzed profitability by product category and customer segment.
+- Detected sales seasonality patterns using dynamic visualizations.
 
-Total Profit ($13.08M)
+### 3️⃣ Actions – Insights into Recommendations
+- Segmented clients by sales channels (Internet vs. Resellers).
+- Suggested targeted promotions based on seasonal trends.
+- Prioritized product lines with higher contribution margin.
 
-Profit Margin (11.85%)
+### 4️⃣ Outcomes – Deliverables for Stakeholders
+- Developed interactive dashboards for executive stakeholders.
+- Created public portfolio-ready version for recruiters & hiring managers.
+- Used this case study as foundation for further projects (SQL querying & Python forecasting).
 
-Average Ticket Size ($3.51K)
+---
 
-Units Sold (275K)
+## 🛠️ Tools & Technologies
 
-🌐 Core Business Insights
+- **Power BI** (Visuals, DAX measures, KPIs, Slicers, Tooltips)
+- **SQL Server Express** (Data source: AdventureWorksDW)
+- **Power Query** (Data cleaning & transformations)
+- **Python** *(in future extensions for forecasting & web scraping)*
 
-Southwest Region leads sales with $24.3M (22% of total).
+---
 
-Resellers Channel accounts for 73% of total revenue.
+## 📈 Executive Summary Insights
 
-Bikes dominate with 86% of sales by category.
+- Southwest Region leads sales with **$24.3M (22% of total)**.
+- Reseller Channel accounts for **73% of total revenue**.
+- Bikes category dominates with **86% of sales**.
+- Top product: **Mountain-200 Black, 38** generating **$4.4M** revenue.
 
-Mountain-200 Black, 38 is the top-selling product ($4.4M).
+---
 
-🛠️ Tools Used
+## 🔗 Live Interactive Dashboard
 
-Power BI (DAX, KPIs, Custom Visuals, Filters, Slicers)
+👉 [Click here to open the Power BI interactive report (public view)](https://app.powerbi.com/view?r=eyJrIjoiNjM0ZGE2MjQtYzZlOS00NGI2LWJmOGMtZTYwYmIyNjNhYzg5IiwidCI6IjQwOWY3ZjkzLTQ0N2EtNDBiYi05YzVjLWQ1MjI1M2E1ZjM5YiIsImMiOjZ9)
 
-Power Query for ETL (Extract, Transform, Load)
+---
 
-SQL Server Express (Data source)
+## 📂 Repository Content
 
-🌟 What This Shows
+- `README.md` (This documentation)
+- `Sales Dashboard - Adventure Works - Portfolio 2025.pbix` (Power BI file)
+- `/Screenshot/` (Preview images of the Dashboard)
 
-Ability to design clean, actionable BI dashboards for executive audiences.
+---
 
-Capacity to calculate business-relevant KPIs.
+## 📌 Next Steps in My BI Portfolio
 
-Competence in data modeling and visualization best practices.
+- Build advanced SQL queries using the AdventureWorks database.
+- Apply Python for sales forecasting & time series analysis.
+- Extend portfolio projects with supply chain and inventory analysis cases.
 
-🔗 Live Public Report Link (optional)
-
-[(https://app.powerbi.com/links/7kKWGg-Ot8?ctid=409f7f93-447a-40bb-9c5c-d52253a5f39b&pbi_source=linkShare)](https://app.powerbi.com/links/7kKWGg-Ot8?ctid=409f7f93-447a-40bb-9c5c-d52253a5f39b&pbi_source=linkShare)
 
 💼 About Me
 
