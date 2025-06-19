@@ -1,4 +1,5 @@
 # Adventure Works Sales Dashboard | Executive Power BI Project
+![Sales Dashboard Cover](./portfolio-cover.png)
 [![Portfolio Project](https://img.shields.io/badge/Portfolio-Active-blue)](https://github.com/arielovimag/adventureworks-sales-dashboard-executive)
 [![Live Demo](https://img.shields.io/badge/PowerBI-Live%20Demo-green)](https://app.powerbi.com/view?r=eyJrIjoiNjM0ZGE2MjQtYzZlOS00NGI2LWJmOGMtZTYwYmIyNjNhYzg5IiwidCI6IjQwOWY3ZjkzLTQ0N2EtNDBiYi05YzVjLWQ1MjI1M2E1ZjM5YiIsImMiOjZ9)
 
