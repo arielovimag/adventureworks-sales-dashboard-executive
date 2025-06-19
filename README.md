@@ -1,4 +1,6 @@
 # Adventure Works Sales Dashboard | Executive Power BI Project
+[![Portfolio Project](https://img.shields.io/badge/Portfolio-Active-blue)](https://github.com/arielovimag/adventureworks-sales-dashboard-executive)
+[![Live Demo](https://img.shields.io/badge/PowerBI-Live%20Demo-green)](https://app.powerbi.com/view?r=eyJrIjoiNjM0ZGE2MjQtYzZlOS00NGI2LWJmOGMtZTYwYmIyNjNhYzg5IiwidCI6IjQwOWY3ZjkzLTQ0N2EtNDBiYi05YzVjLWQ1MjI1M2E1ZjM5YiIsImMiOjZ9)
 
 ---
 
@@ -77,7 +79,7 @@ Apply Business Intelligence techniques to explore sales behavior across multiple
 
 ## 📌 Next Steps in My BI Portfolio
 
-- Build advanced SQL queries using the AdventureWorks database.
+- Build advanced SQL queries using the AdventureWorks database for Dual Sorage Mode (Direct SQL Query & On-Premise)
 - Apply Python for sales forecasting & time series analysis.
 - Extend portfolio projects with supply chain and inventory analysis cases.
 
