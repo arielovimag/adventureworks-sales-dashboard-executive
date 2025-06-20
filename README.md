@@ -22,7 +22,7 @@ Apply Business Intelligence techniques to explore sales behavior across multiple
 
 ---
 
-## 🔍 Methodology (Google Data Analytics Framework)
+## 🔍 Methodology
 
 ### 1️⃣ Discovery – Observations from Data
 - Defined core sales management questions: revenue opportunities, margin growth, product performance.
