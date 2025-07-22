@@ -62,6 +62,8 @@ Apply Business Intelligence techniques to explore sales behavior across multiple
 - Bikes category dominates with **86% of sales**.
 - Top product: **Mountain-200 Black, 38** generating **$4.4M** revenue.
 
+![Sales Dashboard](Sales_Dashboard_Screenshot.png)
+
 ---
 
 ## 🔗 Live Interactive Dashboard
