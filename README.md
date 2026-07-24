@@ -91,6 +91,7 @@ Apply Business Intelligence techniques to explore sales behavior across multiple
 
 I am a developing Data Analyst with practical experience building BI dashboards for operational and business analysis. This project demonstrates my current Power BI proficiency as I continue building my full portfolio integrating SQL, Python, forecasting, and external data sources.
 
+
 ---
 
 ## 👋 About Me
