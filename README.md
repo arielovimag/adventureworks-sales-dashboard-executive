@@ -93,6 +93,13 @@ I am a developing Data Analyst with practical experience building BI dashboards 
 
 ---
 
+## 👋 About Me
+
+I’m a **Supply Chain & BI analyst** with a passion for transforming data into actionable business stories.  
+If you’d like to discuss this project or see how I can help your team make smarter, data-driven decisions, feel free to reach out.
+
+---
+
 ## 📬 Contact
 
 > **Ariel Oviedo Maglione**
